@@ -62,7 +62,7 @@ namespace Assignment4
         }
         static void Main(string[] args)
         {
-            string path = @"E:\myFile.txt";
+            string path = @"myFile.txt";
             choice(path);
         }
     }
